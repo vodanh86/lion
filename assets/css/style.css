@@ -1580,8 +1580,8 @@ canvas {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  height: 90px;
-  width: 90px;
+  height: 130px;
+  width: 130px;
   border: 0.5px solid #3f4551;
   border-radius: 50%;
   background-color: #070d1b;
