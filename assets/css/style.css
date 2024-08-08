@@ -1295,8 +1295,18 @@ canvas {
   .st-hero-wrap {
     height: initial;
   }
+  .st-social-link {
+    display: none!important;
+  }
   .st-hero-wrap .st-hero-img {
-    display: none;
+    position: relative!important;
+    width: 100%;
+  }
+  .st-social-group {
+    display: none!important;
+  }
+  .st-hero-img {
+    transform: none!important;
   }
 }
 
