@@ -922,7 +922,7 @@ hr {
 }
 
 .st-hero-wrap img {
-  width: 100%;
+  width: 80%;
   -o-object-fit: cover;
      object-fit: cover;
 }
